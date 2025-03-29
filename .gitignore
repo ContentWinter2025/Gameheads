@@ -1,2 +1,9 @@
 .DS_Store
 /VersioningTime/Library
+*.pdb
+*.dll
+*.rsp
+/VersioningTime/Library
+*.log
+/VersioningTime/Logs
+/VersioningTime/Temp

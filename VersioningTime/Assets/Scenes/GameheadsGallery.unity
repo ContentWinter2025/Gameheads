@@ -175,6 +175,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: P_Funguy_frame
       objectReference: {fileID: 0}
+    - target: {fileID: 4582045263303699405, guid: 16cd59638efb9bf45889dda6c447ed61, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: fb5a601af654dfc42813593027ad7be7, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
